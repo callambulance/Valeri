@@ -1,5 +1,6 @@
 # Valeri
 Hi!
+
 My name is Valeri and I just finished my 1-year fullstack developer course at CodeCool.
 
 I prefer to work as a backend developer and I have experience with Python, Flask (and a little bit Django) and Java, Sptring Boot.
