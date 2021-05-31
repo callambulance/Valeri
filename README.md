@@ -14,7 +14,7 @@ Java apps: Dungeon Crawl game, online eCommerce web-application (grocery shop);
 Spring Boot and Angular: IMom - application to help manage pregnancy and motherhood;
 
 
-Here is a list of tools and technologies that I use:
+And here is a list of tools and technologies that I use:
 
 [Python,  Flask,  Java,  Spring,  Hibernate,  PostgreSQL,  Maven,  Servlets,  Angular,  JavaScript,  AJAX,  GIT,  JSON,  HTML,  Clean coding]
 
