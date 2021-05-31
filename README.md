@@ -1,4 +1,3 @@
-# Valeri
 Hi!
 
 My name is Valeri and I've just finished my 1-year fullstack developer course at CodeCool.
