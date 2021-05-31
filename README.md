@@ -17,5 +17,5 @@ Here is a list of tools and technologies that I use:
 
 [Python,  Flask,  Java,  Spring,  Hibernate,  PostgreSQL,  Maven,  Servlets,  Angular,  JavaScript,  AJAX,  GIT,  JSON,  HTML,  Clean coding]
 
-<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png%22%3E></code>
+<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png%22%3E"> </code>
 
