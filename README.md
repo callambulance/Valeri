@@ -16,7 +16,7 @@ Some team projects I had worked on during my course:
 
 And here is a list of tools and technologies that I use:
 
-[Python,  Flask,  Java,  Spring,  Hibernate,  PostgreSQL,  Maven,  Servlets,  Angular,  JavaScript,  AJAX,  GIT,  JSON,  HTML,  Clean coding]
+[Python,  Flask,  Java,  Spring,  Hibernate,  PostgreSQL,  Maven,  Servlets,  Angular,  JavaScript,  AJAX,  HTML,  Clean coding]
 
 <code> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> </code>
 <code> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> </code>
