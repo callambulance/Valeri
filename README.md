@@ -17,4 +17,4 @@ Here is a list of tools and technologies that I use:
 
 [Python,  Flask,  Java,  Spring,  Hibernate,  PostgreSQL,  Maven,  Servlets,  Angular,  JavaScript,  AJAX,  GIT,  JSON,  HTML,  Clean coding]
 
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<code> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> </code>
