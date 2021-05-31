@@ -19,8 +19,8 @@ And here is a list of tools and technologies that I use:
 [Java,  Spring,  Maven,  Servlets, Hibernate, PostgreSQL,  Python,  Flask,  Angular,  JavaScript,  AJAX,  HTML,  Clean coding]
 
 <code> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> </code>
-<code> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> </code>
 <code> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> </code>
+<code> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> </code>
 <code> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> </code>
 <code> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> </code>
 
