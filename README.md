@@ -3,7 +3,7 @@ Hi!
 
 My name is Valeri and I've just finished my 1-year fullstack developer course at CodeCool.
 
-I prefer to work as a backend developer and I have experience with Java, Sptring Boot and Python, Flask (also a little bit with Django).
+I prefer to work as a backend developer and I have experience with Java, Spring Boot and Python, Flask (also a little bit with Django).
 
 
 Some team projects I had worked on during my course: 
