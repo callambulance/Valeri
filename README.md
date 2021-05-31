@@ -8,10 +8,10 @@ I prefer to work as a backend developer and I have experience with Python, Flask
 
 Some team projects I had worked on during my course: 
 
-Console games in Python: Hangman, Tic-Tac-Toe, Battleship;</n> 
-Python & Flask apps: crowdsourced Q&A site - like Stack Overflow, kanban desk app - similar to Trello;
-Java apps: Dungeon Crawl game, online eCommerce web-application (grocery shop);
-Spring Boot and Angular: IMom - application to help manage pregnancy and motherhood;
+ - Console games in Python: Hangman, Tic-Tac-Toe, Battleship;
+ - Python & Flask apps: crowdsourced Q&A site - like Stack Overflow, kanban desk app - similar to Trello;
+ - Java apps: Dungeon Crawl game, online eCommerce web-application (grocery shop);
+ - Spring Boot and Angular: IMom - application to help manage pregnancy and motherhood;
 
 
 And here is a list of tools and technologies that I use:
